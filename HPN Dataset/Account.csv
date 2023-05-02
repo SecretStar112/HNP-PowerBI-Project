@@ -1,0 +1,36 @@
+AccountKey,Account,AccountType,Sign,AccountHeaderKey,AccountSubheaderKey,AccountSubheader,SubheaderDetail
+51,Trade Sales,Revenue,1,1,51,Trade Sales,FALSE
+52,Intercompany Sales,Revenue,1,1,51,Intercompany Sales,FALSE
+53,Returns and Adjustments,Expenditures,-1,2,53,Returns and Adjustments,FALSE
+54,Discounts,Expenditures,-1,2,54,Discounts,FALSE
+56,Standard Cost of Sales,Expenditures,-1,4,56,Standard Cost of Sales,FALSE
+57,Variances,Expenditures,-1,4,57,Variances,FALSE
+60,Salaries,Expenditures,-1,6,59,Labor Expenses,TRUE
+61,Payroll Taxes,Expenditures,-1,6,59,Labor Expenses,TRUE
+62,Employee Benefits,Expenditures,-1,6,59,Labor Expenses,TRUE
+63,Commissions,Expenditures,-1,6,63,Commissions,FALSE
+65,Travel Transportation,Expenditures,-1,6,64,Travel Expenses,TRUE
+66,Travel Lodging,Expenditures,-1,6,64,Travel Expenses,TRUE
+67,Meals,Expenditures,-1,6,64,Travel Expenses,TRUE
+68,Entertainment,Expenditures,-1,6,64,Travel Expenses,TRUE
+69,Other Travel Related,Expenditures,-1,6,64,Travel Expenses,TRUE
+71,Conferences,Expenditures,-1,6,70,Marketing,TRUE
+72,Marketing Collateral,Expenditures,-1,6,70,Marketing,TRUE
+73,Office Supplies,Expenditures,-1,6,73,Office Supplies,FALSE
+74,Professional Services,Expenditures,-1,6,74,Professional Services,FALSE
+76,Telephone,Expenditures,-1,6,75,Telephone and Utilities,TRUE
+77,Utilities,Expenditures,-1,6,75,Telephone and Utilities,TRUE
+78,Other Expenses,Expenditures,-1,6,78,Other Expenses,FALSE
+80,Building Leasehold,Expenditures,-1,6,79,Depreciation,TRUE
+81,Vehicles,Expenditures,-1,6,79,Depreciation,TRUE
+82,Equipment,Expenditures,-1,6,79,Depreciation,TRUE
+83,Furniture and Fixtures,Expenditures,-1,6,79,Depreciation,TRUE
+84,Other Assets,Expenditures,-1,6,79,Depreciation,TRUE
+85,Amortization of Goodwill,Expenditures,-1,6,79,Depreciation,TRUE
+87,Rent,Expenditures,-1,6,87,Rent,FALSE
+89,Interest Income,Revenue,1,8,89,Interest Income,FALSE
+90,Interest Expense,Expenditures,-1,8,90,Interest Expense,FALSE
+91,Gain/Loss on Sales of Asset,Revenue,1,8,91,Gain/Loss on Sales of Asset,FALSE
+92,Other Income,Revenue,1,8,92,Other Income,FALSE
+93,Curr Xchg Gain/(Loss),Revenue,1,8,93,Curr Xchg Gain/(Loss),FALSE
+94,Taxes,Expenditures,-1,9,94,Taxes,FALSE

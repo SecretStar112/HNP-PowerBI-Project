@@ -1,0 +1,702 @@
+CustomerKey,GeographyKey,BusinessType,Customer,NumberEmployees,AnnualRevenue,YearOpened,CityName,StateCode,StateName,CountryCode,CountryName,RegionKey,Region.1,Continent
+277,292,Gym,Fit Pro West,43,150000,1984,Alhambra,CA,California,US,United States,4,Southwest,North America
+24,376,Warehouse,Overload Department,61,300000,1983,Union City,CA,California,US,United States,4,Southwest,North America
+492,295,Gym,Lean Machines Fitness,44,150000,1992,Baldwin Park,CA,California,US,United States,4,Southwest,North America
+365,296,Gym,The Dream Gym,46,150000,2001,Barstow,CA,California,US,United States,4,Southwest,North America
+168,297,Gym,Muscle Feast,43,150000,1984,Bell Gardens,CA,California,US,United States,4,Southwest,North America
+42,345,Warehouse,Sportsman Store,79,300000,1999,Newport Beach,CA,California,US,United States,4,Southwest,North America
+402,303,Warehouse,Hammer Department,90,300000,1976,Camarillo,CA,California,US,United States,4,Southwest,North America
+529,303,Warehouse,Boost Store,96,300000,1990,Camarillo,CA,California,US,United States,4,Southwest,North America
+6,303,Warehouse,Ajax Sports,43,150000,1984,Camarillo,CA,California,US,United States,4,Southwest,North America
+241,304,Gym,Workout Anytime,31,150000,2002,Canoga Park,CA,California,US,United States,4,Southwest,North America
+167,305,Supplement Store,Monster Evolution,7,30000,1991,Carson,CA,California,US,United States,4,Southwest,North America
+187,306,Warehouse,Wellness Warehouse,91,300000,1981,Cerritos,CA,California,US,United States,4,Southwest,North America
+60,328,Warehouse,Storeara,85,300000,1990,Hayward,CA,California,US,United States,4,Southwest,North America
+493,308,Warehouse,Tough Warehouse,84,300000,1985,Citrus Heights,CA,California,US,United States,4,Southwest,North America
+366,309,Warehouse,Ensure Sports,76,300000,1994,City Of Commerce,CA,California,US,United States,4,Southwest,North America
+78,349,Warehouse,Circulate Store,91,300000,1981,Ontario,CA,California,US,United States,4,Southwest,North America
+331,349,Supplement Store,Monster Factory,5,30000,1980,Ontario,CA,California,US,United States,4,Southwest,North America
+151,313,Warehouse,Cleanse Department,79,300000,1999,Culver City,CA,California,US,United States,4,Southwest,North America
+312,313,Supplement Store,Nutrition Life,16,80000,1992,Culver City,CA,California,US,United States,4,Southwest,North America
+329,315,Gym,My House Fitness,10,80000,1976,Downey,CA,California,US,United States,4,Southwest,North America
+313,316,Gym,Muscle Maniac,31,150000,1994,El Cajon,CA,California,US,United States,4,Southwest,North America
+25,317,Supplement Store,Nutrition Axe,18,80000,2001,El Segundo,CA,California,US,United States,4,Southwest,North America
+131,317,Supplement Store,Monster Skill,19,80000,1979,El Segundo,CA,California,US,United States,4,Southwest,North America
+648,317,Supplement Store,Nutrition Protein,19,80000,2004,El Segundo,CA,California,US,United States,4,Southwest,North America
+528,318,Gym,Seafit Pilates,32,150000,1988,Elk Grove,CA,California,US,United States,4,Southwest,North America
+96,367,Warehouse,Storescape,97,300000,1996,Santa Ana,CA,California,US,United States,4,Southwest,North America
+257,319,Warehouse,Guide Sports,76,300000,1994,Escondido,CA,California,US,United States,4,Southwest,North America
+474,320,Gym,FLEX Studios,46,150000,2001,Eureka,CA,California,US,United States,4,Southwest,North America
+113,321,Supplement Store,Nutrition Bison,5,30000,1980,Fontana,CA,California,US,United States,4,Southwest,North America
+5,322,Gym,Hard Exercise Works,13,80000,1982,Fremont,CA,California,US,United States,4,Southwest,North America
+61,323,Supplement Store,Monster Interval,6,30000,1983,Fullerton,CA,California,US,United States,4,Southwest,North America
+385,324,Supplement Store,Monster Superior,7,30000,1991,Gilroy,CA,California,US,United States,4,Southwest,North America
+133,341,Warehouse,Storeops,61,300000,1983,Modesto,CA,California,US,United States,4,Southwest,North America
+491,341,Supplement Store,Supplements Body,8,30000,1986,Modesto,CA,California,US,United States,4,Southwest,North America
+330,327,Warehouse,Heart Store,40,150000,1978,Hanford,CA,California,US,United States,4,Southwest,North America
+608,332,Warehouse,Rediscover Store,86,300000,1982,La Mesa,CA,California,US,United States,4,Southwest,North America
+403,333,Supplement Store,Supplements Viva,4,30000,1982,Lake Elsinore,CA,California,US,United States,4,Southwest,North America
+275,334,Warehouse,Storely,84,300000,1985,Lakewood,CA,California,US,United States,4,Southwest,North America
+41,340,Gym,Premium Fitness,49,150000,1993,Milpitas,CA,California,US,United States,4,Southwest,North America
+203,342,Supplement Store,Monster Paramount,16,80000,1992,Monrovia,CA,California,US,United States,4,Southwest,North America
+97,344,Supplement Store,Nutrition Jog,18,80000,1998,Newark,CA,California,US,United States,4,Southwest,North America
+419,346,Gym,Energym,32,150000,1988,Norwalk,CA,California,US,United States,4,Southwest,North America
+600,346,Supplement Store,Nutrition Sculpt,8,30000,1986,Norwalk,CA,California,US,United States,4,Southwest,North America
+240,350,Supplement Store,Nutritopedia,19,80000,1979,Orange,CA,California,US,United States,4,Southwest,North America
+295,351,Gym,Heat Personal Training,37,150000,1975,Oxnard,CA,California,US,United States,4,Southwest,North America
+276,351,Supplement Store,Monster Mindful,7,30000,1991,Oxnard,CA,California,US,United States,4,Southwest,North America
+95,353,Gym,Equilibrium Fitness,31,150000,1994,Pleasanton,CA,California,US,United States,4,Southwest,North America
+383,354,Gym,Unrolled,44,150000,1992,Redlands,CA,California,US,United States,4,Southwest,North America
+258,356,Supplement Store,Nutrition Intense,13,80000,2000,Sacramento,CA,California,US,United States,4,Southwest,North America
+545,357,Supplement Store,Supplements Tough,17,80000,2001,San Bruno,CA,California,US,United States,4,Southwest,North America
+239,369,Warehouse,Potential Department,58,300000,2003,Santa Monica,CA,California,US,United States,4,Southwest,North America
+77,359,Gym,Blueprint Fitness,37,150000,1975,San Diego,CA,California,US,United States,4,Southwest,North America
+367,359,Supplement Store,Supplements Nurse,13,80000,2000,San Diego,CA,California,US,United States,4,Southwest,North America
+114,360,Gym,Iron Religion,13,80000,1982,San Francisco,CA,California,US,United States,4,Southwest,North America
+349,362,Supplement Store,Supplements Torq,19,80000,1979,San Jose,CA,California,US,United States,4,Southwest,North America
+185,362,Supplement Store,Supplements Macho,4,30000,1982,San Jose,CA,California,US,United States,4,Southwest,North America
+511,363,Warehouse,Happy Department,90,300000,1976,San Mateo,CA,California,US,United States,4,Southwest,North America
+23,364,Gym,Guardian Gym,31,150000,2002,San Ramon,CA,California,US,United States,4,Southwest,North America
+384,365,Warehouse,Vita Department,84,300000,1985,San Ysidro,CA,California,US,United States,4,Southwest,North America
+599,366,Warehouse,Prosper Sports,83,300000,1993,Sand City,CA,California,US,United States,4,Southwest,North America
+420,370,Warehouse,Colossus Store,96,300000,1990,Sherman Oaks,CA,California,US,United States,4,Southwest,North America
+259,371,Gym,Catalyst Fitness,49,150000,1993,Simi Valley,CA,California,US,United States,4,Southwest,North America
+150,373,Gym,Intensity Body Training,49,150000,1993,Stockton,CA,California,US,United States,4,Southwest,North America
+204,374,Gym,Upside Down,31,150000,1994,Torrance,CA,California,US,United States,4,Southwest,North America
+510,375,Gym,Planet Granite,38,150000,1983,Trabuco Canyon,CA,California,US,United States,4,Southwest,North America
+311,377,Warehouse,Impulse Store,96,300000,1990,Upland,CA,California,US,United States,4,Southwest,North America
+582,379,Supplement Store,Supplements Ninja,14,80000,1995,Van Nuys,CA,California,US,United States,4,Southwest,North America
+59,380,Gym,Metal Muscles,43,150000,1984,Visalia,CA,California,US,United States,4,Southwest,North America
+294,381,Supplement Store,Supplements Sound,4,30000,1982,Vista,CA,California,US,United States,4,Southwest,North America
+547,382,Gym,Rising Stars,10,80000,1976,Walnut Creek,CA,California,US,United States,4,Southwest,North America
+421,384,Supplement Store,Supplements Potential,16,80000,1992,Whittier,CA,California,US,United States,4,Southwest,North America
+609,294,Supplement Store,Monster Insight,5,30000,1988,Auburn,CA,California,US,United States,4,Southwest,North America
+347,378,Gym,Equinox Fitness Essentials,28,100000,1975,Vacaville,CA,California,US,United States,4,Southwest,North America
+455,293,Supplement Store,Nutrition Isolate,20,100000,2004,Alpine,CA,California,US,United States,4,Southwest,North America
+456,330,Gym,Go Performance & Fitness,28,100000,1975,Irvine,CA,California,US,United States,4,Southwest,North America
+565,381,Gym,Mode Body Boutique,28,100000,1975,Vista,CA,California,US,United States,4,Southwest,North America
+649,367,Gym,Olympus Gym,28,100000,1975,Santa Ana,CA,California,US,United States,4,Southwest,North America
+674,314,Gym,Real Fitness,28,100000,1975,Daly City,CA,California,US,United States,4,Southwest,North America
+18,474,Warehouse,Guide Store,55,300000,2003,Zeeland,MI,Michigan,US,United States,3,Central,North America
+21,584,Warehouse,Bounce Store,58,300000,2003,Irving,TX,Texas,US,United States,4,Southwest,North America
+3,584,Warehouse,Storeify,40,150000,1978,Irving,TX,Texas,US,United States,4,Southwest,North America
+36,447,Warehouse,Grow Department,73,300000,2002,South Bend,IN,Indiana,US,United States,2,Northeast,North America
+39,477,Warehouse,Support Sports,76,300000,1994,Edina,MN,Minnesota,US,United States,3,Central,North America
+54,520,Warehouse,Factory Store,83,300000,1993,Melville,NY,New York,US,United States,2,Northeast,North America
+57,439,Warehouse,Optimum Store,84,300000,1985,West Chicago,IL,Illinois,US,United States,3,Central,North America
+72,502,Warehouse,Departque,89,300000,1984,Nashua,NH,New Hampshire,US,United States,2,Northeast,North America
+594,502,Supplement Store,Monster Energise,10,80000,1989,Nashua,NH,New Hampshire,US,United States,2,Northeast,North America
+75,580,Warehouse,Storeworks,90,300000,1976,Garland,TX,Texas,US,United States,4,Southwest,North America
+166,580,Warehouse,Mindful Department,84,300000,1985,Garland,TX,Texas,US,United States,4,Southwest,North America
+93,590,Warehouse,Shield Department,96,300000,1990,Round Rock,TX,Texas,US,United States,4,Southwest,North America
+273,590,Supplement Store,Supplements Skill,8,30000,1986,Round Rock,TX,Texas,US,United States,4,Southwest,North America
+108,459,Warehouse,Welfare Store,66,300000,1983,Kittery,ME,Maine,US,United States,2,Northeast,North America
+642,459,Supplement Store,Supplements Crunch,18,80000,1998,Kittery,ME,Maine,US,United States,2,Northeast,North America
+130,578,Warehouse,Sharpen Store,58,300000,2003,Dallas,TX,Texas,US,United States,4,Southwest,North America
+165,578,Gym,Make Your Body,44,150000,1992,Dallas,TX,Texas,US,United States,4,Southwest,North America
+201,578,Gym,Total Eclipse Fitness,32,150000,1988,Dallas,TX,Texas,US,United States,4,Southwest,North America
+256,578,Gym,Boom Fitness,46,150000,2001,Dallas,TX,Texas,US,United States,4,Southwest,North America
+112,578,Warehouse,Sportspad,40,150000,1978,Dallas,TX,Texas,US,United States,4,Southwest,North America
+148,431,Warehouse,Clinic Store,76,300000,1994,Carol Stream,IL,Illinois,US,United States,3,Central,North America
+184,574,Warehouse,Warehouseiva,90,300000,1976,Carrollton,TX,Texas,US,United States,4,Southwest,North America
+202,589,Warehouse,Mindful Store,96,300000,1990,Plano,TX,Texas,US,United States,4,Southwest,North America
+205,285,Warehouse,Interval Warehouse,97,300000,1996,Chandler,AZ,Arizona,US,United States,4,Southwest,North America
+625,285,Gym,Exhalt Gym,36,150000,1980,Chandler,AZ,Arizona,US,United States,4,Southwest,North America
+233,521,Warehouse,Happy Sports,52,300000,2002,New Hartford,NY,New York,US,United States,2,Northeast,North America
+251,395,Warehouse,Storevio,70,300000,1997,Hamden,CT,Connecticut,US,United States,2,Northeast,North America
+269,527,Warehouse,Sound Warehouse,82,300000,1988,Euclid,OH,Ohio,US,United States,2,Northeast,North America
+287,463,Warehouse,Sweat Warehouse,88,300000,1979,Madison Heights,MI,Michigan,US,United States,3,Central,North America
+305,445,Warehouse,A+ Store,94,300000,1978,Michigan City,IN,Indiana,US,United States,2,Northeast,North America
+323,460,Warehouse,Olympic Warehouse,100,300000,2003,Detroit,MI,Michigan,US,United States,3,Central,North America
+563,286,Warehouse,Hardcore Department,55,300000,2003,Gilbert,AZ,Arizona,US,United States,4,Southwest,North America
+342,443,Warehouse,Enhance Store,52,300000,2002,Indianapolis,IN,Indiana,US,United States,2,Northeast,North America
+432,443,Warehouse,Brawn Store,100,300000,2003,Indianapolis,IN,Indiana,US,United States,2,Northeast,North America
+234,443,Supplement Store,Monster Apollo,17,80000,2004,Indianapolis,IN,Indiana,US,United States,2,Northeast,North America
+457,287,Warehouse,Factory Warehouse,58,300000,2003,Mesa,AZ,Arizona,US,United States,4,Southwest,North America
+345,583,Warehouse,Zeus Sports,55,300000,2003,Humble,TX,Texas,US,United States,4,Southwest,North America
+475,288,Warehouse,Path Department,76,300000,1994,Phoenix,AZ,Arizona,US,United States,4,Southwest,North America
+473,288,Supplement Store,Monster Samurai,14,80000,1995,Phoenix,AZ,Arizona,US,United States,4,Southwest,North America
+437,288,Supplement Store,Monster Viva,2,30000,1974,Phoenix,AZ,Arizona,US,United States,4,Southwest,North America
+348,390,Warehouse,Science Warehouse,58,300000,2003,Loveland,CO,Colorado,US,United States,3,Central,North America
+546,390,Supplement Store,Supplements Achilles,2,30000,1974,Loveland,CO,Colorado,US,United States,3,Central,North America
+610,289,Gym,ConqHER Fitness,41,150000,1981,Scottsdale,AZ,Arizona,US,United States,4,Southwest,North America
+583,290,Gym,Venture Crossfit,46,150000,2001,Surprise,AZ,Arizona,US,United States,4,Southwest,North America
+439,291,Warehouse,Stamina Sports,40,150000,1978,Tucson,AZ,Arizona,US,United States,4,Southwest,North America
+509,291,Supplement Store,Monster Optimum,2,30000,1977,Tucson,AZ,Arizona,US,United States,4,Southwest,North America
+222,386,Supplement Store,Monster Minotaur,5,30000,1980,Denver,CO,Colorado,US,United States,3,Central,North America
+360,470,Warehouse,Sportssy,70,300000,1997,Saginaw,MI,Michigan,US,United States,3,Central,North America
+377,470,Gym,Total Body,46,150000,1995,Saginaw,MI,Michigan,US,United States,3,Central,North America
+223,387,Gym,Live Fit Gym,13,80000,1982,Englewood,CO,Colorado,US,United States,3,Central,North America
+363,486,Warehouse,Edge Store,73,300000,2002,Saint Ann,MO,Missouri,US,United States,3,Central,North America
+79,388,Supplement Store,Nutrition Naturo,6,30000,1974,Greeley,CO,Colorado,US,United States,3,Central,North America
+523,389,Warehouse,Balanced Warehouse,94,300000,1978,Longmont,CO,Colorado,US,United States,3,Central,North America
+527,391,Supplement Store,Nutrition Capacity,14,80000,1986,Parker,CO,Colorado,US,United States,3,Central,North America
+132,392,Gym,Fit to Be,31,150000,2002,Westminster,CO,Colorado,US,United States,3,Central,North America
+149,392,Supplement Store,Supplementsaro,13,80000,2000,Westminster,CO,Colorado,US,United States,3,Central,North America
+378,534,Warehouse,Warehousejet,82,300000,1988,Springdale,OH,Ohio,US,United States,2,Northeast,North America
+143,393,Supplement Store,Nutrition Workout,15,80000,2003,East Haven,CT,Connecticut,US,United States,2,Northeast,North America
+381,487,Warehouse,Thin Sports,83,300000,1993,Saint Louis,MO,Missouri,US,United States,3,Central,North America
+220,487,Gym,Lion’s Den Fitness,10,80000,1976,Saint Louis,MO,Missouri,US,United States,3,Central,North America
+327,487,Supplement Store,Monster Quest,17,80000,2001,Saint Louis,MO,Missouri,US,United States,3,Central,North America
+71,394,Gym,Armour Body,39,150000,1978,Farmington,CT,Connecticut,US,United States,2,Northeast,North America
+684,396,Warehouse,Knight Store,67,300000,1995,Milford,CT,Connecticut,US,United States,2,Northeast,North America
+252,396,Supplement Store,Monsterado,15,80000,2003,Milford,CT,Connecticut,US,United States,2,Northeast,North America
+691,397,Supplement Store,Supplements Stable,14,80000,1995,New Haven,CT,Connecticut,US,United States,2,Northeast,North America
+125,398,Supplement Store,Supplements Motion,17,80000,2004,Stamford,CT,Connecticut,US,United States,2,Northeast,North America
+396,446,Warehouse,Departaro,88,300000,1979,New Castle,IN,Indiana,US,United States,2,Northeast,North America
+399,585,Warehouse,Ensure Warehouse,89,300000,1984,Killeen,TX,Texas,US,United States,4,Southwest,North America
+215,400,Supplement Store,Monster Tread,18,80000,1979,Westport,CT,Connecticut,US,United States,2,Northeast,North America
+147,432,Gym,Handle Bars Gym,46,150000,2001,Chicago,IL,Illinois,US,United States,3,Central,North America
+183,432,Gym,Rival Fitness,38,150000,1983,Chicago,IL,Illinois,US,United States,3,Central,North America
+58,432,Supplement Store,Nutrition Sportsman,7,30000,1991,Chicago,IL,Illinois,US,United States,3,Central,North America
+219,432,Supplement Store,Monster Design,2,30000,1974,Chicago,IL,Illinois,US,United States,3,Central,North America
+111,433,Gym,InBalance,10,80000,1976,Elgin,IL,Illinois,US,United States,3,Central,North America
+400,434,Supplement Store,Monster Pulse,2,30000,1977,Joliet,IL,Illinois,US,United States,3,Central,North America
+414,441,Warehouse,Quality Warehouse,94,300000,1978,Daleville,IN,Indiana,US,United States,2,Northeast,North America
+417,591,Warehouse,Knight Sports,95,300000,1984,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+471,591,Gym,Fitness Zone,43,150000,1996,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+580,591,Gym,Uptown Fitness,43,150000,1996,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+328,591,Supplement Store,Nutrition Strong,2,30000,1974,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+382,591,Supplement Store,Supplements Relieve,8,30000,1986,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+472,436,Warehouse,Eager Warehouse,73,300000,2002,Norridge,IL,Illinois,US,United States,3,Central,North America
+310,437,Gym,Momentum Sports Therapy,32,150000,1988,Peoria,IL,Illinois,US,United States,3,Central,North America
+622,438,Gym,Empower Fitness,37,150000,1975,Tuscola,IL,Illinois,US,United States,3,Central,North America
+76,440,Supplement Store,Nutrition Joint,4,30000,1982,Wood Dale,IL,Illinois,US,United States,3,Central,North America
+435,577,Warehouse,Clever Warehouse,66,300000,1983,Corpus Christi,TX,Texas,US,United States,4,Southwest,North America
+161,442,Supplement Store,Monster Healthy,9,30000,1994,Fort Wayne,IN,Indiana,US,United States,2,Northeast,North America
+454,560,Warehouse,Aphrodite Department,55,300000,2003,Denby,SD,South Dakota,US,United States,3,Central,North America
+636,444,Supplement Store,Nutrition Bio,14,80000,1986,Logansport,IN,Indiana,US,United States,2,Northeast,North America
+486,453,Gym,Iron Cans,46,150000,1995,Braintree,MA,Massachusetts,US,United States,2,Northeast,North America
+53,454,Gym,Muscle Magic,45,150000,1987,Norwood,MA,Massachusetts,US,United States,2,Northeast,North America
+557,457,Warehouse,Start Warehouse,49,150000,1996,Wrentham,MA,Massachusetts,US,United States,2,Northeast,North America
+490,588,Warehouse,Bounce Warehouse,83,300000,1993,Mesquite,TX,Texas,US,United States,4,Southwest,North America
+660,462,Warehouse,Examine Store,43,150000,1984,Howell,MI,Michigan,US,United States,3,Central,North America
+395,464,Gym,A Women’s Gym,40,150000,1986,Midland,MI,Michigan,US,United States,3,Central,North America
+468,465,Gym,Fitness on Fire,40,150000,1999,Monroe,MI,Michigan,US,United States,3,Central,North America
+197,466,Supplement Store,Supplements 100,12,80000,1980,Novi,MI,Michigan,US,United States,3,Central,North America
+508,581,Warehouse,Physical Department,89,300000,1984,Hillsboro,TX,Texas,US,United States,4,Southwest,North America
+180,467,Gym,Raw Fitness,39,150000,1978,Pontiac,MI,Michigan,US,United States,3,Central,North America
+643,468,Gym,Fitness Love,30,150000,2000,Port Huron,MI,Michigan,US,United States,3,Central,North America
+504,469,Gym,My Health Fitness,40,150000,1986,Redford,MI,Michigan,US,United States,3,Central,North America
+198,471,Gym,Total Balance,33,150000,1982,Southfield,MI,Michigan,US,United States,3,Central,North America
+306,472,Supplement Store,Supplements Focus,12,80000,1980,Southgate,MI,Michigan,US,United States,3,Central,North America
+288,473,Supplement Store,Monster Sharp,3,30000,1985,Westland,MI,Michigan,US,United States,3,Central,North America
+579,475,Supplement Store,Nutrition Evolution,15,80000,2003,Branch,MN,Minnesota,US,United States,3,Central,North America
+274,476,Gym,Exhale,44,150000,1992,Duluth,MN,Minnesota,US,United States,3,Central,North America
+694,478,Supplement Store,Nutrition AAA,13,80000,2000,Medford,MN,Minnesota,US,United States,3,Central,North America
+544,484,Warehouse,Departzoid,66,300000,1983,Kansas City,MO,Missouri,US,United States,3,Central,North America
+695,484,Gym,Gladiator Fitness,49,150000,1993,Kansas City,MO,Missouri,US,United States,3,Central,North America
+623,479,Warehouse,Storenest,91,300000,1981,Minneapolis,MN,Minnesota,US,United States,3,Central,North America
+598,481,Gym,Blink Fitness,45,150000,1987,Branson,MO,Missouri,US,United States,3,Central,North America
+364,482,Supplement Store,Nutrition Way,14,80000,1995,Ferguson,MO,Missouri,US,United States,3,Central,North America
+575,525,Warehouse,Ability Sports,67,300000,1995,Cincinnati,OH,Ohio,US,United States,2,Northeast,North America
+359,525,Gym,Sculpt House,40,150000,1999,Cincinnati,OH,Ohio,US,United States,2,Northeast,North America
+670,485,Supplement Store,Supplements League,17,80000,2004,Odessa,MO,Missouri,US,United States,3,Central,North America
+581,506,Warehouse,Departtastic,73,300000,2002,Rio Rancho,NM,New Mexico,US,United States,4,Southwest,North America
+503,501,Supplement Store,Monster Enhance,4,30000,1980,Hooksett,NH,New Hampshire,US,United States,2,Northeast,North America
+593,529,Warehouse,Endure Store,81,300000,1996,Holland,OH,Ohio,US,United States,2,Northeast,North America
+558,504,Supplement Store,Supplements Marvel,14,80000,1998,Tilton,NH,New Hampshire,US,United States,2,Northeast,North America
+221,505,Warehouse,Bro Warehouse,40,150000,1978,Las Cruces,NM,New Mexico,US,United States,4,Southwest,North America
+186,507,Gym,Strength Camp,37,150000,1975,Santa Fe,NM,New Mexico,US,United States,4,Southwest,North America
+413,513,Gym,Custom Body,34,150000,1976,Central Valley,NY,New York,US,United States,2,Northeast,North America
+522,514,Gym,Reach Fieldhouse,34,150000,1976,Cheektowaga,NY,New York,US,United States,2,Northeast,North America
+324,516,Supplement Store,Nutrition Energy,18,80000,1979,De Witt,NY,New York,US,United States,2,Northeast,North America
+619,518,Gym,Destiny Fitness,38,150000,1983,Ithaca,NY,New York,US,United States,2,Northeast,North America
+539,519,Supplement Store,Monster Healing,19,80000,2004,Lake George,NY,New York,US,United States,2,Northeast,North America
+144,522,Gym,Flow Fitness,43,150000,1996,New York,NY,New York,US,United States,2,Northeast,North America
+667,523,Supplement Store,Monster Expert,14,80000,1998,Valley Stream,NY,New York,US,United States,2,Northeast,North America
+666,526,Warehouse,Warehousenest,49,150000,1996,Columbus,OH,Ohio,US,United States,2,Northeast,North America
+647,571,Warehouse,Habit Sports,99,300000,2003,Arlington,TX,Texas,US,United States,4,Southwest,North America
+690,528,Warehouse,Powerlift Department,73,300000,2002,Heath,OH,Ohio,US,United States,2,Northeast,North America
+576,530,Supplement Store,Supplements Fresh,16,80000,1998,Mansfield,OH,Ohio,US,United States,2,Northeast,North America
+179,531,Supplement Store,Supplements Iron,3,30000,1985,Mentor,OH,Ohio,US,United States,2,Northeast,North America
+270,532,Supplement Store,Nutrition Bigger,9,30000,1994,North Randall,OH,Ohio,US,United States,2,Northeast,North America
+89,533,Gym,Crossfit Zone,33,150000,1982,Oberlin,OH,Ohio,US,United States,2,Northeast,North America
+162,554,Gym,Living Fitness,45,150000,1987,Warwick,RI,Rhode Island,US,United States,2,Northeast,North America
+35,555,Gym,Dynamo Fitness,43,150000,1996,West Kingston,RI,Rhode Island,US,United States,2,Northeast,North America
+521,556,Supplement Store,Nutrition Crush,10,80000,1974,Woonsocket,RI,Rhode Island,US,United States,2,Northeast,North America
+22,561,Supplement Store,Monster Maximus,19,80000,1979,North Sioux City,SD,South Dakota,US,United States,3,Central,North America
+4,572,Supplement Store,Monster Zeus,5,30000,1980,Austin,TX,Texas,US,United States,4,Southwest,North America
+291,573,Supplement Store,Monster Mass,2,30000,1977,Baytown,TX,Texas,US,United States,4,Southwest,North America
+489,575,Gym,Jungle Fitness,45,150000,1987,Cedar Park,TX,Texas,US,United States,4,Southwest,North America
+436,576,Supplement Store,Supplements Physical,17,80000,2001,College Station,TX,Texas,US,United States,4,Southwest,North America
+94,579,Supplement Store,Supplements Mindful,16,80000,1992,Fort Worth,TX,Texas,US,United States,4,Southwest,North America
+292,582,Gym,Fuel House,38,150000,1983,Houston,TX,Texas,US,United States,4,Southwest,North America
+255,582,Supplement Store,Supplements Bigger,14,80000,1995,Houston,TX,Texas,US,United States,4,Southwest,North America
+309,582,Supplement Store,Monsterio,14,80000,1986,Houston,TX,Texas,US,United States,4,Southwest,North America
+597,582,Supplement Store,Monster Rep,9,30000,1994,Houston,TX,Texas,US,United States,4,Southwest,North America
+607,586,Gym,Christ Fit Gym,42,150000,1989,La Marque,TX,Texas,US,United States,4,Southwest,North America
+40,587,Supplement Store,Supplements Advanced,13,80000,2000,Laredo,TX,Texas,US,United States,4,Southwest,North America
+507,592,Gym,Number One Gym,39,150000,1978,Stafford,TX,Texas,US,United States,4,Southwest,North America
+561,593,Supplement Store,Monster Breathe,17,80000,2004,Sugar Land,TX,Texas,US,United States,4,Southwest,North America
+606,651,Supplement Store,Nutrition Physical,6,30000,1983,Mosinee,WI,Wisconsin,US,United States,3,Central,North America
+418,652,Supplement Store,Nutrition Science,14,80000,1986,Racine,WI,Wisconsin,US,United States,3,Central,North America
+618,503,Supplement Store,Nutrition A+,2,30000,1977,Plaistow,NH,New Hampshire,US,United States,2,Northeast,North America
+624,289,Supplement Store,Supplements People,6,30000,1974,Scottsdale,AZ,Arizona,US,United States,4,Southwest,North America
+107,455,Gym,Through Christ Fit,27,100000,2002,Randolph,MA,Massachusetts,US,United States,2,Northeast,North America
+126,517,Gym,Training Mate,25,100000,2005,Endicott,NY,New York,US,United States,2,Northeast,North America
+129,440,Gym,Trinity Fitness,28,100000,1975,Wood Dale,IL,Illinois,US,United States,3,Central,North America
+216,399,Gym,WholyFit,27,100000,2002,Waterbury,CT,Connecticut,US,United States,2,Northeast,North America
+237,432,Supplement Store,Nutrition Balanced,20,100000,2004,Chicago,IL,Illinois,US,United States,3,Central,North America
+238,483,Gym,Beast Factory,28,100000,1975,Jefferson City,MO,Missouri,US,United States,3,Central,North America
+341,515,Gym,Define Body and Mind,22,100000,2000,Clay,NY,New York,US,United States,2,Northeast,North America
+346,435,Supplement Store,Supplements Samsonite,20,100000,2004,Moline,IL,Illinois,US,United States,3,Central,North America
+431,461,Gym,Fitness Essentials,28,100000,1975,Holland,MI,Michigan,US,United States,3,Central,North America
+450,456,Gym,FLEX Studios,22,100000,2000,Saugus,MA,Massachusetts,US,United States,2,Northeast,North America
+453,650,Gym,Fit Pro West,25,100000,2005,Milwaukee,WI,Wisconsin,US,United States,3,Central,North America
+540,524,Gym,Heroics Training,28,100000,1975,Burbank,OH,Ohio,US,United States,2,Northeast,North America
+543,649,Gym,Iron Mine Gym,27,100000,2002,Johnson Creek,WI,Wisconsin,US,United States,3,Central,North America
+562,480,Gym,Let’s Burn,25,100000,2005,Woodbury,MN,Minnesota,US,United States,3,Central,North America
+646,487,Gym,Next Age Fitness,29,100000,2005,Saint Louis,MO,Missouri,US,United States,3,Central,North America
+671,591,Gym,Quads Gym,25,100000,2005,San Antonio,TX,Texas,US,United States,4,Southwest,North America
+27,568,Warehouse,Wisdom Sports,64,300000,2000,Millington,TN,Tennessee,US,United States,5,Southeast,North America
+9,568,Warehouse,Sportsque,46,150000,1990,Millington,TN,Tennessee,US,United States,5,Southeast,North America
+134,568,Supplement Store,Monster Path,18,80000,2001,Millington,TN,Tennessee,US,United States,5,Southeast,North America
+45,565,Warehouse,Warehouseverse,80,300000,1991,La Vergne,TN,Tennessee,US,United States,5,Southeast,North America
+63,495,Warehouse,Hero Store,86,300000,1982,Greensboro,NC,North Carolina,US,United States,5,Southeast,North America
+81,409,Warehouse,Enhanced Store,92,300000,1991,Miami,FL,Florida,US,United States,5,Southeast,North America
+242,409,Warehouse,Storegenics,61,300000,1983,Miami,FL,Florida,US,United States,5,Southeast,North America
+260,409,Warehouse,Physique Sports,79,300000,1999,Miami,FL,Florida,US,United States,5,Southeast,North America
+26,409,Gym,DevMuscles,34,150000,1987,Miami,FL,Florida,US,United States,5,Southeast,North America
+98,409,Gym,Fit Body Boot Camp,30,150000,2000,Miami,FL,Florida,US,United States,5,Southeast,North America
+628,409,Gym,Faith Fitness,35,150000,1992,Miami,FL,Florida,US,United States,5,Southeast,North America
+8,409,Gym,Harmony Mind Body Fitness Inc.,16,80000,1988,Miami,FL,Florida,US,United States,5,Southeast,North America
+188,409,Supplement Store,Nutrition Nurse,6,30000,1974,Miami,FL,Florida,US,United States,5,Southeast,North America
+494,409,Supplement Store,Monster Nutritious,7,30000,1991,Miami,FL,Florida,US,United States,5,Southeast,North America
+603,409,Supplement Store,Nutrition Effort,7,30000,1991,Miami,FL,Florida,US,United States,5,Southeast,North America
+90,602,Warehouse,Iso Department,95,300000,1984,Chantilly,VA,Virginia,US,United States,5,Southeast,North America
+99,412,Warehouse,Sense Warehouse,98,300000,2002,Sarasota,FL,Florida,US,United States,5,Southeast,North America
+278,411,Warehouse,Storeadri,85,300000,1990,Orlando,FL,Florida,US,United States,5,Southeast,North America
+530,411,Supplement Store,Monster Loaded,16,80000,1992,Orlando,FL,Florida,US,United States,5,Southeast,North America
+440,411,Supplement Store,Supplements Maximus,5,30000,1980,Orlando,FL,Florida,US,United States,5,Southeast,North America
+296,280,Warehouse,Energy Department,91,300000,1981,Birmingham,AL,Alabama,US,United States,5,Southeast,North America
+314,490,Warehouse,Vigor Sports,97,300000,1996,Tupelo,MS,Mississippi,US,United States,5,Southeast,North America
+351,425,Warehouse,Warehouseish,61,300000,1983,Mcdonough,GA,Georgia,US,United States,5,Southeast,North America
+171,425,Gym,Phenomenal Fitness,42,150000,1989,Mcdonough,GA,Georgia,US,United States,5,Southeast,North America
+369,449,Warehouse,Clinic Warehouse,79,300000,1999,Florence,KY,Kentucky,US,United States,5,Southeast,North America
+387,282,Warehouse,Physique Department,85,300000,1990,Huntsville,AL,Alabama,US,United States,5,Southeast,North America
+44,282,Gym,The Workout Zone,48,150000,1998,Huntsville,AL,Alabama,US,United States,5,Southeast,North America
+405,564,Warehouse,Sportsadora,91,300000,1981,Kingsport,TN,Tennessee,US,United States,5,Southeast,North America
+423,488,Warehouse,Endure Warehouse,97,300000,1996,Biloxi,MS,Mississippi,US,United States,5,Southeast,North America
+566,489,Warehouse,Utopia Sports,58,300000,2003,Gulfport,MS,Mississippi,US,United States,5,Southeast,North America
+584,426,Warehouse,Heal Sports,76,300000,1994,Savannah,GA,Georgia,US,United States,5,Southeast,North America
+602,566,Warehouse,Warehousenest,84,300000,1985,Maryville,TN,Tennessee,US,United States,5,Southeast,North America
+611,402,Warehouse,Bulk Department,87,300000,1987,Bradenton,FL,Florida,US,United States,5,Southeast,North America
+675,410,Warehouse,Sportstastic,58,300000,2003,North Miami Beach,FL,Florida,US,United States,5,Southeast,North America
+699,496,Warehouse,Shield Warehouse,80,300000,1991,Kannapolis,NC,North Carolina,US,United States,5,Southeast,North America
+62,569,Gym,Corenergy,42,150000,1989,Nashville,TN,Tennessee,US,United States,5,Southeast,North America
+350,569,Gym,Paddle Into Fitness,31,150000,2002,Nashville,TN,Tennessee,US,United States,5,Southeast,North America
+512,569,Supplement Store,Supplements Aphrodite,4,30000,1982,Nashville,TN,Tennessee,US,United States,5,Southeast,North America
+80,413,Gym,Body Balance,36,150000,1980,Sunrise,FL,Florida,US,United States,5,Southeast,North America
+224,281,Warehouse,Hero Store,43,150000,1984,Florence,AL,Alabama,US,United States,5,Southeast,North America
+135,567,Gym,Fitness Connection,34,150000,1987,Memphis,TN,Tennessee,US,United States,5,Southeast,North America
+585,567,Supplement Store,Nutrition Lifestyle,13,80000,2000,Memphis,TN,Tennessee,US,United States,5,Southeast,North America
+170,567,Supplement Store,Nutrition Anatomy,6,30000,1983,Memphis,TN,Tennessee,US,United States,5,Southeast,North America
+279,567,Supplement Store,Nutrition Interval,6,30000,1983,Memphis,TN,Tennessee,US,United States,5,Southeast,North America
+189,283,Gym,The Fitness Connection,36,150000,1980,Mobile,AL,Alabama,US,United States,5,Southeast,North America
+332,284,Gym,Old Skool Fitness,13,80000,1982,Montgomery,AL,Alabama,US,United States,5,Southeast,North America
+261,401,Supplement Store,Supplements Workout,12,80000,1992,Altamonte Springs,FL,Florida,US,United States,5,Southeast,North America
+153,403,Gym,Iron Bodies Gym,48,150000,1998,Clearwater,FL,Florida,US,United States,5,Southeast,North America
+549,403,Supplement Store,Monster Potential,5,30000,1980,Clearwater,FL,Florida,US,United States,5,Southeast,North America
+458,404,Supplement Store,Supplements Nurture,19,80000,1979,Destin,FL,Florida,US,United States,5,Southeast,North America
+243,406,Supplement Store,Monster Superior,18,80000,2001,Kendall,FL,Florida,US,United States,5,Southeast,North America
+495,407,Gym,Metro Fitness,43,150000,1984,Lakeland,FL,Florida,US,United States,5,Southeast,North America
+315,408,Supplement Store,Monsterx,18,80000,1998,Merritt Island,FL,Florida,US,United States,5,Southeast,North America
+477,414,Gym,Fusion Fitness,49,150000,1993,Tampa,FL,Florida,US,United States,5,Southeast,North America
+531,415,Gym,Sky Gym,31,150000,1994,Vero Beach,FL,Florida,US,United States,5,Southeast,North America
+116,416,Supplement Store,Supplements Wellness,8,30000,1986,Atlanta,GA,Georgia,US,United States,5,Southeast,North America
+651,417,Supplement Store,Nutrition Cleanse,18,80000,1979,Augusta,GA,Georgia,US,United States,5,Southeast,North America
+676,418,Supplement Store,Supplements Gun,19,80000,1979,Austell,GA,Georgia,US,United States,5,Southeast,North America
+525,419,Gym,Ridge Fitness,33,150000,1982,Byron,GA,Georgia,US,United States,5,Southeast,North America
+152,420,Supplement Store,Nutrition Essence,12,80000,1992,Clarkston,GA,Georgia,US,United States,5,Southeast,North America
+476,421,Supplement Store,Supplements Ward,13,80000,2000,Columbus,GA,Georgia,US,United States,5,Southeast,North America
+207,498,Gym,Urban Body Fitness,30,150000,2000,Rocky Mount,NC,North Carolina,US,United States,5,Southeast,North America
+368,422,Gym,The Training Habit,49,150000,1993,Decatur,GA,Georgia,US,United States,5,Southeast,North America
+459,423,Gym,Fit Technicians,31,150000,2002,La Grange,GA,Georgia,US,United States,5,Southeast,North America
+117,427,Gym,Legacy,16,80000,1988,Suwanee,GA,Georgia,US,United States,5,Southeast,North America
+225,448,Supplement Store,Supplements Youth,8,30000,1986,Campbellsville,KY,Kentucky,US,United States,5,Southeast,North America
+513,450,Gym,Pro Club,37,150000,1975,Newport,KY,Kentucky,US,United States,5,Southeast,North America
+297,451,Supplement Store,Nutrition Quality,6,30000,1974,Saint Matthews,KY,Kentucky,US,United States,5,Southeast,North America
+441,452,Gym,PUCE Gym,13,80000,1982,Somerset,KY,Kentucky,US,United States,5,Southeast,North America
+700,494,Supplement Store,Supplements Care,11,80000,1997,Charlotte,NC,North Carolina,US,United States,5,Southeast,North America
+524,499,Supplement Store,Supplements Soul,12,80000,1980,Smithfield,NC,North Carolina,US,United States,5,Southeast,North America
+206,500,Supplement Store,Monster Planned,18,80000,1998,Winston-Salem,NC,North Carolina,US,United States,5,Southeast,North America
+548,557,Warehouse,Warehousegenix,40,150000,1978,Bluffton,SC,South Carolina,US,United States,5,Southeast,North America
+422,558,Gym,Equinox the Loop,31,150000,1994,Gaffney,SC,South Carolina,US,United States,5,Southeast,North America
+386,559,Gym,Weight Time,43,150000,1984,Myrtle Beach,SC,South Carolina,US,United States,5,Southeast,North America
+404,562,Gym,C3 Fitness,37,150000,1975,Crossville,TN,Tennessee,US,United States,5,Southeast,North America
+333,563,Warehouse,Cure Store,43,150000,1984,Hixson,TN,Tennessee,US,United States,5,Southeast,North America
+567,570,Supplement Store,Nutrition Born,19,80000,1979,Pigeon Forge,TN,Tennessee,US,United States,5,Southeast,North America
+467,603,Supplement Store,Supplements Bulk,16,80000,1998,Falls Church,VA,Virginia,US,United States,5,Southeast,North America
+485,604,Supplement Store,Monsteronus,10,80000,1989,Leesburg,VA,Virginia,US,United States,5,Southeast,North America
+449,606,Supplement Store,Supplements Restore,14,80000,1998,Virginia Beach,VA,Virginia,US,United States,5,Southeast,North America
+612,405,Supplement Store,Monster BodyBuild,4,30000,1980,Hollywood,FL,Florida,US,United States,5,Southeast,North America
+627,497,Supplement Store,Monster Vigor,8,30000,1979,Raleigh,NC,North Carolina,US,United States,5,Southeast,North America
+17,605,Gym,Temple Training,25,100000,2005,Newport News,VA,Virginia,US,United States,5,Southeast,North America
+652,424,Gym,POW! Gym,27,100000,2002,Marietta,GA,Georgia,US,United States,5,Southeast,North America
+127,634,Warehouse,Repair Store,55,300000,2003,Redmond,WA,Washington,US,United States,1,Northwest,North America
+145,634,Warehouse,Heart Sports,73,300000,2002,Redmond,WA,Washington,US,United States,1,Northwest,North America
+163,541,Warehouse,Physical Sports,83,300000,1993,Klamath Falls,OR,Oregon,US,United States,1,Northwest,North America
+169,508,Warehouse,Xerxes Warehouse,85,300000,1990,Fernley,NV,Nevada,US,United States,1,Northwest,North America
+181,538,Warehouse,Genic Warehouse,89,300000,1984,Clackamas,OR,Oregon,US,United States,1,Northwest,North America
+199,635,Warehouse,Stable Warehouse,95,300000,1984,Renton,WA,Washington,US,United States,1,Northwest,North America
+289,635,Gym,Fitness Works,39,150000,1978,Renton,WA,Washington,US,United States,1,Northwest,North America
+2,635,Gym,Guardian Gym,10,80000,1976,Renton,WA,Washington,US,United States,1,Northwest,North America
+217,640,Warehouse,Refresh Warehouse,66,300000,1983,Shelton,WA,Washington,US,United States,1,Northwest,North America
+236,637,Warehouse,BodyBuild Department,55,300000,2003,Seattle,WA,Washington,US,United States,1,Northwest,North America
+146,637,Supplement Store,Monster Well,14,80000,1995,Seattle,WA,Washington,US,United States,1,Northwest,North America
+1,637,Supplement Store,Supplements Aid,2,30000,1974,Seattle,WA,Washington,US,United States,1,Northwest,North America
+397,637,Supplement Store,Nutrition Macho,3,30000,1985,Seattle,WA,Washington,US,United States,1,Northwest,North America
+254,608,Warehouse,Shield Sports,73,300000,2002,Bellevue,WA,Washington,US,United States,1,Northwest,North America
+272,642,Warehouse,Heat Department,83,300000,1993,Tacoma,WA,Washington,US,United States,1,Northwest,North America
+577,642,Gym,Unanimous Boxing,40,150000,1999,Tacoma,WA,Washington,US,United States,1,Northwest,North America
+290,609,Warehouse,Progressive Store,89,300000,1984,Bellingham,WA,Washington,US,United States,1,Northwest,North America
+293,597,Warehouse,Brawn Department,90,300000,1976,Park City,UT,Utah,US,United States,1,Northwest,North America
+308,616,Warehouse,Nourish Warehouse,95,300000,1984,Everett,WA,Washington,US,United States,1,Northwest,North America
+596,616,Warehouse,Protein Sports,82,300000,1988,Everett,WA,Washington,US,United States,1,Northwest,North America
+326,622,Warehouse,Impulse Sports,66,300000,1983,Kent,WA,Washington,US,United States,1,Northwest,North America
+451,544,Warehouse,Superior Warehouse,52,300000,2002,Medford,OR,Oregon,US,United States,1,Northwest,North America
+55,544,Supplement Store,Supplements Enhance,8,30000,1986,Medford,OR,Oregon,US,United States,1,Northwest,North America
+469,613,Warehouse,Strength Store,70,300000,1997,Chehalis,WA,Washington,US,United States,1,Northwest,North America
+487,548,Warehouse,Sportslux,82,300000,1988,Salem,OR,Oregon,US,United States,1,Northwest,North America
+505,619,Warehouse,Isolate Department,88,300000,1979,Kelso,WA,Washington,US,United States,1,Northwest,North America
+541,492,Warehouse,Quality Store,100,300000,2003,Great Falls,MT,Montana,US,United States,1,Northwest,North America
+560,655,Warehouse,Sportsbea,52,300000,2002,Rock Springs,WY,Wyoming,US,United States,1,Northwest,North America
+578,633,Warehouse,Storely,70,300000,1997,Puyallup,WA,Washington,US,United States,1,Northwest,North America
+253,633,Gym,Blink Fitness,43,150000,1996,Puyallup,WA,Washington,US,United States,1,Northwest,North America
+307,633,Gym,Lovely Bodies,33,150000,1982,Puyallup,WA,Washington,US,United States,1,Northwest,North America
+37,633,Supplement Store,Supplements Young,14,80000,1995,Puyallup,WA,Washington,US,United States,1,Northwest,North America
+605,641,Warehouse,Thor Department,85,300000,1990,Spokane,WA,Washington,US,United States,1,Northwest,North America
+362,641,Gym,Spin City Fitness,43,150000,1996,Spokane,WA,Washington,US,United States,1,Northwest,North America
+415,641,Supplement Store,Monster Evolution,12,80000,1980,Spokane,WA,Washington,US,United States,1,Northwest,North America
+620,654,Warehouse,All Star Warehouse,90,300000,1976,Cheyenne,WY,Wyoming,US,United States,1,Northwest,North America
+380,654,Gym,Total Row,45,150000,1987,Cheyenne,WY,Wyoming,US,United States,1,Northwest,North America
+626,509,Warehouse,Good Department,92,300000,1991,Las Vegas,NV,Nevada,US,United States,1,Northwest,North America
+401,509,Gym,Blast Midtown,38,150000,1983,Las Vegas,NV,Nevada,US,United States,1,Northwest,North America
+438,509,Gym,Praise N Motion,10,80000,1976,Las Vegas,NV,Nevada,US,United States,1,Northwest,North America
+644,549,Warehouse,Expert Department,98,300000,2002,Springfield,OR,Oregon,US,United States,1,Northwest,North America
+650,511,Warehouse,Departquipo,100,300000,2003,Reno,NV,Nevada,US,United States,1,Northwest,North America
+669,617,Warehouse,Storelux,52,300000,2002,Federal Way,WA,Washington,US,United States,1,Northwest,North America
+672,596,Warehouse,Warehousescape,55,300000,2003,Ogden,UT,Utah,US,United States,1,Northwest,North America
+693,540,Warehouse,Clinic Store,76,300000,1994,Hillsboro,OR,Oregon,US,United States,1,Northwest,North America
+696,598,Warehouse,Enhance Warehouse,79,300000,1999,Riverton,UT,Utah,US,United States,1,Northwest,North America
+38,491,Gym,Alpha Muscle Center,46,150000,2001,Billings,MT,Montana,US,United States,1,Northwest,North America
+56,547,Gym,Gym Palace,44,150000,1992,Portland,OR,Oregon,US,United States,1,Northwest,North America
+74,547,Gym,Art of Wellness,38,150000,1983,Portland,OR,Oregon,US,United States,1,Northwest,North America
+379,547,Supplement Store,Nutrition Aid,9,30000,1994,Portland,OR,Oregon,US,United States,1,Northwest,North America
+92,647,Gym,DIY Workout Machine,32,150000,1988,Woodinville,WA,Washington,US,United States,1,Northwest,North America
+271,645,Gym,Elite Edge Fitness,45,150000,1987,Washougal,WA,Washington,US,United States,1,Northwest,North America
+110,428,Supplement Store,Supplements Prime,2,30000,1974,Idaho Falls,ID,Idaho,US,United States,1,Northwest,North America
+488,429,Supplement Store,Monster Victor,9,30000,1994,Lewiston,ID,Idaho,US,United States,1,Northwest,North America
+398,430,Gym,Around the World Fitness,39,150000,1978,Sandpoint,ID,Idaho,US,United States,1,Northwest,North America
+115,512,Warehouse,Storewind,43,150000,1984,Sparks,NV,Nevada,US,United States,1,Northwest,North America
+416,643,Gym,E.F.F.E.C.T Fitness,33,150000,1982,Union Gap,WA,Washington,US,United States,1,Northwest,North America
+595,535,Gym,Battle Ground Fitness,46,150000,1995,Albany,OR,Oregon,US,United States,1,Northwest,North America
+452,535,Supplement Store,Supplements Refresh,17,80000,2004,Albany,OR,Oregon,US,United States,1,Northwest,North America
+91,536,Supplement Store,Nutrition Anatomy,14,80000,1986,Beaverton,OR,Oregon,US,United States,1,Northwest,North America
+604,537,Gym,Body Temple Gym,43,150000,1984,Clackamas,OR,Oregon,US,United States,1,Northwest,North America
+182,545,Supplement Store,Nutrition Apollo,2,30000,1977,Milwaukie,OR,Oregon,US,United States,1,Northwest,North America
+692,550,Gym,Friends of Jesus,46,150000,2001,Tigard,OR,Oregon,US,United States,1,Northwest,North America
+164,551,Supplement Store,Nutrition Cycle,8,30000,1986,Troutdale,OR,Oregon,US,United States,1,Northwest,North America
+698,595,Gym,Gravity Fitness,48,150000,1998,Cedar City,UT,Utah,US,United States,1,Northwest,North America
+43,599,Supplement Store,Nutrittastic,12,80000,1992,Salt Lake City,UT,Utah,US,United States,1,Northwest,North America
+7,599,Supplement Store,Monster Guide,8,30000,1986,Salt Lake City,UT,Utah,US,United States,1,Northwest,North America
+601,600,Gym,Body Tech Fitness,44,150000,1992,Sandy,UT,Utah,US,United States,1,Northwest,North America
+697,601,Supplement Store,Monster Progress,12,80000,1992,Tooele,UT,Utah,US,United States,1,Northwest,North America
+343,615,Supplement Store,Nutrition Brute,17,80000,2004,Ellensburg,WA,Washington,US,United States,1,Northwest,North America
+109,618,Supplement Store,Nutrition Afterburner,17,80000,2001,Issaquah,WA,Washington,US,United States,1,Northwest,North America
+470,621,Supplement Store,Supplements Iron,15,80000,2003,Kennewick,WA,Washington,US,United States,1,Northwest,North America
+542,623,Supplement Store,Monster Naturo,18,80000,1979,Kirkland,WA,Washington,US,United States,1,Northwest,North America
+433,624,Supplement Store,Supplements Nutritious,18,80000,1979,Lacey,WA,Washington,US,United States,1,Northwest,North America
+218,625,Supplement Store,Supplements Jog,17,80000,2001,Longview,WA,Washington,US,United States,1,Northwest,North America
+73,630,Supplement Store,Monster Slim,2,30000,1977,North Bend,WA,Washington,US,United States,1,Northwest,North America
+200,632,Supplement Store,Nutrition Active,14,80000,1986,Port Orchard,WA,Washington,US,United States,1,Northwest,North America
+361,639,Supplement Store,Nutrition Mass,15,80000,2003,Sequim,WA,Washington,US,United States,1,Northwest,North America
+506,653,Supplement Store,Nutrition Hercules,3,30000,1985,Casper,WY,Wyoming,US,United States,1,Northwest,North America
+621,609,Supplement Store,Monster All Star,4,30000,1982,Bellingham,WA,Washington,US,United States,1,Northwest,North America
+19,610,Supplement Store,Nutrition Genic,20,100000,2004,Bothell,WA,Washington,US,United States,1,Northwest,North America
+20,622,Gym,The Edge Rock Gym,28,100000,1975,Kent,WA,Washington,US,United States,1,Northwest,North America
+128,646,Supplement Store,Nutrition Crush,20,100000,2004,Wenatchee,WA,Washington,US,United States,1,Northwest,North America
+235,626,Gym,Bally Total Fitness,25,100000,2005,Lynnwood,WA,Washington,US,United States,1,Northwest,North America
+325,610,Gym,Chic Physique Women’s Fitness,27,100000,2002,Bothell,WA,Washington,US,United States,1,Northwest,North America
+344,616,Gym,Eagle Fitness,25,100000,2005,Everett,WA,Washington,US,United States,1,Northwest,North America
+434,493,Gym,Fitness Zone,27,100000,2002,Missoula,MT,Montana,US,United States,1,Northwest,North America
+559,654,Gym,Iron Tribe Fitness,22,100000,2000,Cheyenne,WY,Wyoming,US,United States,1,Northwest,North America
+564,510,Supplement Store,Monster Axe,20,100000,2004,North Las Vegas,NV,Nevada,US,United States,1,Northwest,North America
+645,536,Supplement Store,Supplements Compound,20,100000,2004,Beaverton,OR,Oregon,US,United States,1,Northwest,North America
+668,619,Gym,Progressive Gym,22,100000,2000,Kelso,WA,Washington,US,United States,1,Northwest,North America
+673,594,Supplement Store,Monster Quest,20,100000,2004,Bountiful,UT,Utah,US,United States,1,Northwest,North America
+30,110,Warehouse,Ajax Department,67,300000,1995,Quebec,QC,Quebec,CA,Canada,6,Canada,North America
+550,110,Gym,Shake it Off Fitness,13,80000,1982,Quebec,QC,Quebec,CA,Canada,6,Canada,North America
+48,106,Warehouse,Progress Warehouse,81,300000,1996,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+281,106,Warehouse,Heart Store,86,300000,1982,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+156,106,Gym,Jazzy Moves,47,150000,1990,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+407,106,Gym,Chasing Aesthetic,36,150000,1980,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+586,106,Gym,Wicker Park Fitness,49,150000,1993,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+246,106,Supplement Store,Supplements Brigade,17,80000,1991,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+66,48,Warehouse,Bounce Warehouse,87,300000,1987,Burnaby,BC,British Columbia,CA,Canada,6,Canada,North America
+84,78,Warehouse,Function Warehouse,93,300000,1978,Etobicoke,ON,Ontario,CA,Canada,6,Canada,North America
+425,78,Gym,Extreme Crossfit,30,150000,2000,Etobicoke,ON,Ontario,CA,Canada,6,Canada,North America
+102,96,Warehouse,Brute Sports,99,300000,2003,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+208,96,Warehouse,Fortify Store,98,300000,2002,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+192,96,Gym,The Training Room,35,150000,1992,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+12,96,Warehouse,Defender Warehouse,49,150000,1996,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+118,96,Warehouse,Fulfil Store,46,150000,1990,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+11,96,Gym,In-Shape Health Clubs,19,80000,1994,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+155,96,Supplement Store,Nutrition Bigger,11,80000,1997,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+191,96,Supplement Store,Supplements Challenge,8,30000,1979,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+136,41,Warehouse,Mindful Sports,64,300000,2000,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+190,41,Warehouse,Defender Store,92,300000,1991,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+354,41,Warehouse,Storery,64,300000,2000,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+629,41,Warehouse,Supreme Sports,93,300000,1978,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+701,41,Warehouse,Thor Sports,81,300000,1996,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+262,41,Gym,Crossfit Insanity,48,150000,1998,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+444,41,Gym,Resurrection Fitness,16,80000,1988,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+46,41,Supplement Store,Nutrition Drill,11,80000,1997,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+137,41,Supplement Store,Monster Protect,17,80000,1991,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+370,41,Supplement Store,Monsterlux,12,80000,1992,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+154,68,Warehouse,Balanced Store,80,300000,1991,Vancouver,BC,British Columbia,CA,Canada,6,Canada,North America
+138,68,Gym,Fitness Hub,37,150000,1999,Vancouver,BC,British Columbia,CA,Canada,6,Canada,North America
+82,68,Supplement Store,Monster Compound,8,30000,1979,Vancouver,BC,British Columbia,CA,Canada,6,Canada,North America
+173,68,Supplement Store,Supplements Ensure,5,30000,1988,Vancouver,BC,British Columbia,CA,Canada,6,Canada,North America
+388,68,Supplement Store,Monster Dr.,6,30000,1983,Vancouver,BC,British Columbia,CA,Canada,6,Canada,North America
+172,61,Warehouse,Helios Sports,86,300000,1982,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+408,61,Warehouse,Paragon Department,92,300000,1991,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+478,61,Warehouse,Wisdom Sports,79,300000,1999,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+514,61,Warehouse,Helios Warehouse,91,300000,1981,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+462,61,Gym,Fitness Cycles,34,150000,1987,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+497,61,Supplement Store,Monster Health,6,30000,1983,Richmond,BC,British Columbia,CA,Canada,6,Canada,North America
+245,101,Warehouse,Vita Warehouse,64,300000,2000,Brossard,QC,Quebec,CA,Canada,6,Canada,North America
+263,46,Warehouse,Storeella,80,300000,1991,Burnaby,BC,British Columbia,CA,Canada,6,Canada,North America
+299,73,Warehouse,Warehouseonus,92,300000,1991,Saint John,NB,Brunswick,CA,Canada,6,Canada,North America
+317,45,Warehouse,Workout Sports,98,300000,2002,Burnaby,BC,British Columbia,CA,Canada,6,Canada,North America
+372,80,Warehouse,Happy Sports,80,300000,1991,Kingston,ON,Ontario,CA,Canada,6,Canada,North America
+516,80,Gym,Rain City Fit,36,150000,1980,Kingston,ON,Ontario,CA,Canada,6,Canada,North America
+390,98,Warehouse,Unit Department,86,300000,1982,Waterloo,ON,Ontario,CA,Canada,6,Canada,North America
+334,98,Supplement Store,Monster Jog,8,30000,1986,Waterloo,ON,Ontario,CA,Canada,6,Canada,North America
+426,76,Warehouse,Sportsaro,98,300000,2002,Brampton,ON,Ontario,CA,Canada,6,Canada,North America
+460,100,Warehouse,Warehouseish,61,300000,1983,Brossard,QC,Quebec,CA,Canada,6,Canada,North America
+496,42,Warehouse,Bigger Sports,85,300000,1990,Edmonton,AB,Alberta,CA,Canada,6,Canada,North America
+352,42,Supplement Store,Nutrition Explosive,18,80000,2001,Edmonton,AB,Alberta,CA,Canada,6,Canada,North America
+526,88,Warehouse,Rediscover Sports,95,300000,1984,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+83,88,Gym,Center Fitness,35,150000,1992,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+677,88,Gym,Fitness Master,31,150000,2002,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+532,79,Warehouse,Balance Store,97,300000,1996,Kanata,ON,Ontario,CA,Canada,6,Canada,North America
+569,85,Warehouse,Sportsman Department,61,300000,1983,Nepean,ON,Ontario,CA,Canada,6,Canada,North America
+587,89,Warehouse,Warehouseify,79,300000,1999,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+653,93,Warehouse,Start Store,66,300000,1983,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+678,93,Warehouse,Haven Sports,61,300000,1983,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+631,93,Gym,Fighter Nation,34,150000,1976,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+637,93,Gym,Fitness Authority,32,150000,1988,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+630,93,Supplement Store,Monster Vital,10,80000,1974,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+29,77,Gym,Fit and Lift Gym Center,37,150000,1999,Chalk Riber,ON,Ontario,CA,Canada,6,Canada,North America
+47,95,Gym,Platinum Fitness,47,150000,1990,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+28,95,Supplement Store,Supplements Vigor,17,80000,1991,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+64,95,Supplement Store,Monster Strength,5,30000,1988,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+65,99,Gym,Max Fitness,41,150000,1981,Weston,ON,Ontario,CA,Canada,6,Canada,North America
+174,67,Gym,Pinnacle Fitness,41,150000,1981,Surrey,BC,British Columbia,CA,Canada,6,Canada,North America
+371,67,Gym,Throwback Fitness,48,150000,1998,Surrey,BC,British Columbia,CA,Canada,6,Canada,North America
+389,67,Gym,Windy Night,42,150000,1989,Surrey,BC,British Columbia,CA,Canada,6,Canada,North America
+244,107,Gym,9 Rounds Fitness,34,150000,1987,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+336,107,Warehouse,Departpad,46,150000,1990,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+685,107,Supplement Store,Nutrition Pathway,16,80000,1998,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+280,75,Gym,Fit Results,42,150000,1989,Barrie,ON,Ontario,CA,Canada,6,Canada,North America
+298,72,Gym,Infliction Fitness,36,150000,1980,Winnipeg,MB,Manitoba,CA,Canada,6,Canada,North America
+353,72,Gym,Raise The Bar,34,150000,1987,Winnipeg,MB,Manitoba,CA,Canada,6,Canada,North America
+316,83,Gym,Next Level Fitness,30,150000,2000,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+480,84,Gym,Helios Fitness Centre,48,150000,1998,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+498,84,Gym,Mile High Run Club,42,150000,1989,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+534,84,Gym,STACK Sports,30,150000,2000,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+461,84,Supplement Store,Supplements Cure,18,80000,2001,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+568,94,Gym,The Foundry,31,150000,2002,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+227,94,Warehouse,Afterburner Store,46,150000,1990,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+442,94,Warehouse,Genius Warehouse,43,150000,1984,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+551,94,Warehouse,Connect Sports,43,150000,1984,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+264,94,Supplement Store,Nutrition Heal,11,80000,1997,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+552,94,Supplement Store,Supplements Habit,8,30000,1986,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+613,97,Gym,Crunch Fitness,40,150000,1986,Vancouver,ON,Ontario,CA,Canada,6,Canada,North America
+10,44,Supplement Store,Monsteroryx,11,80000,1992,Burnaby,BC,British Columbia,CA,Canada,6,Canada,North America
+120,105,Gym,Lion of Judah Fitness,19,80000,1994,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+570,105,Supplement Store,Supplements Boulder,18,80000,2001,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+588,47,Supplement Store,Supplements Energy,12,80000,1992,Burnaby,BC,British Columbia,CA,Canada,6,Canada,North America
+226,103,Gym,Mission Fitness,16,80000,1988,Hull,QC,Quebec,CA,Canada,6,Canada,North America
+335,82,Gym,One Life Fitness,16,80000,1988,Mississauga,ON,Ontario,CA,Canada,6,Canada,North America
+654,74,Supplement Store,Supplements Solution,17,80000,2001,Aurora,ON,Ontario,CA,Canada,6,Canada,North America
+515,86,Supplement Store,Supplements Clever,6,30000,1974,North York,ON,Ontario,CA,Canada,6,Canada,North America
+119,109,Supplement Store,Monster Potential,11,80000,1992,Pnot-Rouge,QC,Quebec,CA,Canada,6,Canada,North America
+228,87,Supplement Store,Nutrition Grow,11,80000,1992,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+300,90,Supplement Store,Nutrition Body,8,30000,1979,Ottawa,ON,Ontario,CA,Canada,6,Canada,North America
+424,91,Supplement Store,Monsterster,18,80000,1998,Richmond Hill,ON,Ontario,CA,Canada,6,Canada,North America
+443,91,Supplement Store,Supplements Evolution,8,30000,1986,Richmond Hill,ON,Ontario,CA,Canada,6,Canada,North America
+679,104,Supplement Store,Supplements Micro,18,80000,2001,Montreal,QC,Quebec,CA,Canada,6,Canada,North America
+406,108,Supplement Store,Supplements Shape,6,30000,1974,Outremont,QC,Quebec,CA,Canada,6,Canada,North America
+282,111,Supplement Store,Supplements Guide,5,30000,1988,Sainte-Foy,QC,Quebec,CA,Canada,6,Canada,North America
+533,112,Supplement Store,Monster Movement,18,80000,1998,Sillery,QC,Quebec,CA,Canada,6,Canada,North America
+479,113,Supplement Store,Nutrition Vibrance,12,80000,1992,Ville De'anjou,QC,Quebec,CA,Canada,6,Canada,North America
+655,102,Supplement Store,Nutrition Boost,2,30000,1974,Dorval,QC,Quebec,CA,Canada,6,Canada,North America
+661,41,Supplement Store,Nutrition Paramount,8,30000,1986,Calgary,AB,Alberta,CA,Canada,6,Canada,North America
+100,81,Supplement Store,Supplements AAA,20,100000,2004,Markham,ON,Ontario,CA,Canada,6,Canada,North America
+101,96,Gym,The Lord’s Gym,29,100000,2005,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+209,92,Supplement Store,Nutrition Flame,20,100000,2004,Scarborough,ON,Ontario,CA,Canada,6,Canada,North America
+210,94,Gym,Warriors for Christ,29,100000,2005,Toronto,ON,Ontario,CA,Canada,6,Canada,North America
+318,69,Supplement Store,Monster Steel,20,100000,2004,Victoria,BC,British Columbia,CA,Canada,6,Canada,North America
+15,6,Warehouse,Potential Store,52,300000,2002,São Paulo,SP,São Paulo,BR,Brazil,9,Brazil,South America
+33,6,Warehouse,Detox Warehouse,70,300000,1997,São Paulo,SP,São Paulo,BR,Brazil,9,Brazil,South America
+69,6,Warehouse,Departaro,88,300000,1979,São Paulo,SP,São Paulo,BR,Brazil,9,Brazil,South America
+141,6,Gym,Monster GYM,40,150000,1999,São Paulo,SP,São Paulo,BR,Brazil,9,Brazil,South America
+231,6,Supplement Store,Coleman Loja de Suplementos,14,80000,1998,São Paulo,SP,São Paulo,BR,Brazil,9,Brazil,South America
+51,28,Warehouse,Juggernaut Store,82,300000,1988,Natal,RN,Rio Grande do Norte,BR,Brazil,9,Brazil,South America
+87,5,Warehouse,Brute Warehouse,94,300000,1978,Curitiba,PR,Paraná,BR,Brazil,9,Brazil,South America
+105,1,Warehouse,Enhance Store,100,300000,2003,Canoas,RS,Rio Grande do Sul,BR,Brazil,9,Brazil,South America
+124,270,Warehouse,Shred Store,52,300000,2002,W. York,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+178,270,Warehouse,Stream Sports,88,300000,1979,W. York,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+139,215,Warehouse,Interval Department,67,300000,1995,Colombes,92,Hauts de Seine,FR,France,7,France,Europe
+229,215,Gym,Mountaintop Fitness,19,80000,1994,Colombes,92,Hauts de Seine,FR,France,7,France,Europe
+142,268,Warehouse,Storezilla,70,300000,1997,Liverpool,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+157,204,Warehouse,Storeiva,81,300000,1996,Paris,75,Seine (Paris),FR,France,7,France,Europe
+301,204,Gym,Jump Start Gym,35,150000,1992,Paris,75,Seine (Paris),FR,France,7,France,Europe
+160,264,Warehouse,Insight Department,82,300000,1988,Oxon,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+175,183,Warehouse,Storebia,87,300000,1987,Orleans,45,Loiret,FR,France,7,France,Europe
+499,183,Warehouse,Warehouseio,86,300000,1982,Orleans,45,Loiret,FR,France,7,France,Europe
+193,180,Warehouse,Steel Sports,93,300000,1978,Colomiers,31,Garonne (Haute),FR,France,7,France,Europe
+196,260,Warehouse,Departarc,94,300000,1978,Milton Keynes,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+88,260,Supplement Store,Supplementspad,12,80000,1980,Milton Keynes,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+211,205,Warehouse,Naturo Store,99,300000,2003,Lieusaint,77,Seine et Marne,FR,France,7,France,Europe
+214,242,Warehouse,Endure Store,100,300000,2003,Lancaster,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+248,178,Warehouse,Essential Warehouse,67,300000,1995,Sulzbach Taunus,SL,Saarland,DE,Germany,8,Germany,Europe
+681,178,Warehouse,Macho Store,64,300000,2000,Sulzbach Taunus,SL,Saarland,DE,Germany,8,Germany,Europe
+266,119,Warehouse,Intense Store,81,300000,1996,Grevenbroich,BY,Bayern,DE,Germany,8,Germany,Europe
+284,153,Warehouse,Superior Store,87,300000,1987,Berlin,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+302,172,Warehouse,Helios Warehouse,93,300000,1978,Offenbach,SL,Saarland,DE,Germany,8,Germany,Europe
+320,145,Warehouse,Hercules Warehouse,99,300000,2003,Frankfurt am Main,HH,Hamburg,DE,Germany,8,Germany,Europe
+357,29,Warehouse,Insight Sports,67,300000,1995,Campinas,SP,São Paulo,BR,Brazil,9,Brazil,South America
+375,22,Warehouse,Expert Warehouse,81,300000,1996,Palmas,TO,Tocantins,BR,Brazil,9,Brazil,South America
+393,9,Warehouse,Ability Sports,87,300000,1987,Porto Alegre,RS,Rio Grande do Sul,BR,Brazil,9,Brazil,South America
+411,12,Warehouse,Olympia Department,93,300000,1978,Manaus,AM,Amazonas,BR,Brazil,9,Brazil,South America
+195,12,Gym,#13MEMO Gym,34,150000,1976,Manaus,AM,Amazonas,BR,Brazil,9,Brazil,South America
+303,12,Supplement Store,Boladão Suplementos,10,80000,1974,Manaus,AM,Amazonas,BR,Brazil,9,Brazil,South America
+429,15,Warehouse,Drill Department,99,300000,2003,Brasília,DF,Distrito Federal,BR,Brazil,9,Brazil,South America
+463,211,Warehouse,Run Warehouse,64,300000,2000,Les Ulis,91,Essonne,FR,France,7,France,Europe
+517,211,Warehouse,Grow Warehouse,92,300000,1991,Les Ulis,91,Essonne,FR,France,7,France,Europe
+13,211,Supplement Store,Monster Intense,14,80000,1998,Les Ulis,91,Essonne,FR,France,7,France,Europe
+373,211,Supplement Store,Nutrition Fresh,11,80000,1997,Les Ulis,91,Essonne,FR,France,7,France,Europe
+466,258,Warehouse,Guru Store,67,300000,1995,Maidenhead,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+481,182,Warehouse,Sweat Warehouse,80,300000,1991,Saint Ouen,41,Loir et Cher,FR,France,7,France,Europe
+121,182,Warehouse,Storester,49,150000,1996,Saint Ouen,41,Loir et Cher,FR,France,7,France,Europe
+484,229,Warehouse,Powerlift Warehouse,81,300000,1996,Berks,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+502,254,Warehouse,Sportsonus,87,300000,1987,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+520,253,Warehouse,Paramount Store,93,300000,1978,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+535,226,Warehouse,Departadil,98,300000,2002,Cergy,95,Val d'Oise,FR,France,7,France,Europe
+538,245,Warehouse,Vitality Sports,99,300000,2003,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+572,156,Warehouse,Rep Warehouse,64,300000,2000,Braunschweig,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+590,173,Warehouse,Outward Sports,80,300000,1991,Poing,SL,Saarland,DE,Germany,8,Germany,Europe
+614,203,Warehouse,Rhino Sports,88,300000,1979,Paris,75,Seine (Paris),FR,France,7,France,Europe
+617,263,Warehouse,Storelaza,89,300000,1984,Oxford,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+632,212,Warehouse,Skill Sports,94,300000,1978,Morangis,91,Essonne,FR,France,7,France,Europe
+635,235,Warehouse,Expert Warehouse,95,300000,1984,Cambridge,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+638,200,Warehouse,Cleanse Department,96,300000,1990,Paris,75,Seine (Paris),FR,France,7,France,Europe
+641,252,Warehouse,Circulate Sports,97,300000,1996,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+687,159,Warehouse,Departops,70,300000,1997,München,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+32,177,Gym,The Fitness Pack,40,150000,1999,Stuttgart,SL,Saarland,DE,Germany,8,Germany,Europe
+338,177,Gym,Onsight Rock Gym,19,80000,1994,Stuttgart,SL,Saarland,DE,Germany,8,Germany,Europe
+50,114,Gym,The Sweat Arena,46,150000,1995,Berlin,BB,Brandenburg,DE,Germany,8,Germany,Europe
+68,148,Gym,AbsoluteFit,40,150000,1986,Muehlheim,HH,Hamburg,DE,Germany,8,Germany,Europe
+86,144,Gym,CrossFit Max Effort,34,150000,1976,Essen,HH,Hamburg,DE,Germany,8,Germany,Europe
+159,11,Gym,Bolado's Academia,46,150000,1995,Salvador,BA,Bahia,BR,Brazil,9,Brazil,South America
+285,11,Supplement Store,Supplementsonus,4,30000,1980,Salvador,BA,Bahia,BR,Brazil,9,Brazil,South America
+177,24,Gym,Academia BIRL,40,150000,1986,Maceió,AL,Alagoas,BR,Brazil,9,Brazil,South America
+247,225,Gym,Anytime Fitness,37,150000,1999,Orly,94,Val de Marne,FR,France,7,France,Europe
+250,250,Gym,Atlas Performance,40,150000,1999,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+265,202,Gym,Crunch,47,150000,1990,Paris,75,Seine (Paris),FR,France,7,France,Europe
+268,240,Gym,Desert Gymcats,46,150000,1995,High Wycombe,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+283,206,Gym,Fitness Battalion,41,150000,1981,Roissy en Brie,77,Seine et Marne,FR,France,7,France,Europe
+286,266,Gym,Fitness on Toast,40,150000,1986,Reading,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+304,227,Gym,Lateral Fitness,34,150000,1976,Abingdon,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+356,132,Gym,Riot Athletics,37,150000,1999,Hamburg,HE,Hessen,DE,Germany,8,Germany,Europe
+374,135,Gym,To the Core,47,150000,1990,Salzgitter,HE,Hessen,DE,Germany,8,Germany,Europe
+392,147,Gym,Xtreme Couture,41,150000,1981,Hamburg,HH,Hamburg,DE,Germany,8,Germany,Europe
+410,168,Gym,Curl Fitness,35,150000,1992,Kiel,SL,Saarland,DE,Germany,8,Germany,Europe
+465,17,Gym,Academia Mutante,37,150000,1999,Joinville,SC,Santa Catarina,BR,Brazil,9,Brazil,South America
+483,14,Gym,Red Rocks Fitness,47,150000,1990,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,9,Brazil,South America
+634,14,Gym,Premium Body,33,150000,1982,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,9,Brazil,South America
+573,14,Supplement Store,Iron Suplementos,17,80000,1991,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,9,Brazil,South America
+501,7,Gym,Muscle Monsters,41,150000,1981,João Pessoa,PB,Paraíba,BR,Brazil,9,Brazil,South America
+519,35,Gym,Gym Hero,35,150000,1992,Belo Horizonte,MG,Minas Gerais,BR,Brazil,9,Brazil,South America
+267,35,Supplement Store,Gold Nutrition,10,80000,1989,Belo Horizonte,MG,Minas Gerais,BR,Brazil,9,Brazil,South America
+591,35,Supplement Store,Arnold is King,11,80000,1997,Belo Horizonte,MG,Minas Gerais,BR,Brazil,9,Brazil,South America
+664,35,Supplement Store,Suplementos do Maromba,11,80000,1992,Belo Horizonte,MG,Minas Gerais,BR,Brazil,9,Brazil,South America
+571,191,Gym,The Sky Barre,34,150000,1987,Boulogne-sur-Mer,62,Pas de Calais,FR,France,7,France,Europe
+574,246,Gym,The Weight Date,37,150000,1999,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+589,198,Gym,360 Mind Body Soul,48,150000,1998,Paris,75,Seine (Paris),FR,France,7,France,Europe
+592,251,Gym,Alphalete Gym,47,150000,1990,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+616,8,Gym,BodyWorks,39,150000,1978,São Luís,MA,Maranhão,BR,Brazil,9,Brazil,South America
+339,8,Warehouse,Bulk Sports,49,150000,1996,São Luís,MA,Maranhão,BR,Brazil,9,Brazil,South America
+321,8,Supplement Store,Monster Nutrition,19,80000,2004,São Luís,MA,Maranhão,BR,Brazil,9,Brazil,South America
+640,30,Gym,Kardio Work,31,150000,1994,Duque de Caxias,RJ,Rio de Janeiro,BR,Brazil,9,Brazil,South America
+680,218,Gym,Five Point Fitness,34,150000,1987,Sèvres,92,Hauts de Seine,FR,France,7,France,Europe
+683,257,Gym,Focused Movement,37,150000,1999,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+686,219,Gym,Fortified Fitness,40,150000,1999,Suresnes,92,Hauts de Seine,FR,France,7,France,Europe
+689,249,Gym,Foundation Fitness,43,150000,1996,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+555,3,Supplement Store,100% Puro Suplementos,11,80000,1992,Goiânia,GO,Goiânia,BR,Brazil,9,Brazil,South America
+230,122,Warehouse,Flourish Department,49,150000,1996,Bad Soden,HE,Hessen,DE,Germany,8,Germany,Europe
+682,10,Supplement Store,Supplements Step,17,80000,1991,Florianópolis,SC,Santa Catarina,BR,Brazil,9,Brazil,South America
+445,222,Warehouse,Powerlift Department,46,150000,1990,Pantin,93,Seine Saint Denis,FR,France,7,France,Europe
+103,222,Supplement Store,Nutrition Vitality,19,80000,2004,Pantin,93,Seine Saint Denis,FR,France,7,France,Europe
+448,276,Warehouse,Skill Sports,49,150000,1996,Woolston,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+447,16,Gym,Fitness Together,19,80000,1994,Uberaba,MG,Minas Gerais,BR,Brazil,9,Brazil,South America
+554,151,Warehouse,Haven Sports,46,150000,1990,Paderborn,HH,Hamburg,DE,Germany,8,Germany,Europe
+688,18,Supplement Store,Nutrition Sense,15,80000,2003,Fortaleza,CE,Ceará,BR,Brazil,9,Brazil,South America
+657,136,Warehouse,Juggernaut Sports,40,150000,1978,Ascheim,HH,Hamburg,DE,Germany,8,Germany,Europe
+663,137,Warehouse,Fulfil Sports,46,150000,1990,Augsburg,HH,Hamburg,DE,Germany,8,Germany,Europe
+249,37,Supplement Store,Suplementos King,16,80000,1998,Recife,PE,Pernambuco,BR,Brazil,9,Brazil,South America
+553,197,Gym,Soul Cycle,16,80000,1988,Paris,75,Seine (Paris),FR,France,7,France,Europe
+556,256,Gym,Soul Fitness,19,80000,1994,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+656,196,Gym,Square One Fitness,10,80000,1976,Paris,75,Seine (Paris),FR,France,7,France,Europe
+659,248,Gym,Stone Summit,13,80000,1982,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+662,185,Gym,Strong Tower,16,80000,1988,Croix,59,Nord,FR,France,7,France,Europe
+665,255,Gym,Super Stars,19,80000,1994,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+16,247,Supplement Store,Monster Thrive,17,80000,2004,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+31,201,Supplement Store,Supplements Crunch,16,80000,1998,Paris,75,Seine (Paris),FR,France,7,France,Europe
+34,272,Supplement Store,Supplementsara,15,80000,2003,Warrington,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+49,188,Supplement Store,Nutrition Aphrodite,10,80000,1989,Roncq,59,Nord,FR,France,7,France,Europe
+85,216,Supplement Store,Nutritzilla,10,80000,1974,Courbevoie,92,Hauts de Seine,FR,France,7,France,Europe
+106,275,Supplement Store,Nutrition All Star,18,80000,1979,Wokingham,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+122,125,Supplement Store,Monster Run,14,80000,1998,Berlin,HE,Hessen,DE,Germany,8,Germany,Europe
+518,125,Supplement Store,Supplements Genius,8,30000,1979,Berlin,HE,Hessen,DE,Germany,8,Germany,Europe
+140,143,Supplement Store,Supplements Zeus,16,80000,1998,Bonn,HH,Hamburg,DE,Germany,8,Germany,Europe
+158,154,Supplement Store,Nutritporium,10,80000,1989,Bonn,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+194,150,Supplement Store,Supplementslaza,10,80000,1974,München,HH,Hamburg,DE,Germany,8,Germany,Europe
+212,134,Supplement Store,Nutritology,19,80000,2004,München,HE,Hessen,DE,Germany,8,Germany,Europe
+482,115,Supplement Store,Supplements Design,11,80000,1997,Eilenburg,BB,Brandenburg,DE,Germany,8,Germany,Europe
+633,116,Supplement Store,Monster Edge,12,80000,1980,Augsburg,BY,Bayern,DE,Germany,8,Germany,Europe
+639,118,Supplement Store,Nutrition Young,16,80000,1992,Frankfurt,BY,Bayern,DE,Germany,8,Germany,Europe
+500,128,Supplement Store,Monster Hardy,5,30000,1988,Dresden,HE,Hessen,DE,Germany,8,Germany,Europe
+337,217,Supplement Store,Supplements Paladin,11,80000,1992,Paris La Defense,92,Hauts de Seine,FR,France,7,France,Europe
+340,274,Supplement Store,Monsteromatic,14,80000,1998,West Sussex,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+355,193,Supplement Store,Nutritlux,17,80000,1991,Paris,75,Seine (Paris),FR,France,7,France,Europe
+358,277,Supplement Store,Supplements Rhino,16,80000,1998,York,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+376,230,Supplement Store,Monster Evolution,10,80000,1989,Berkshire,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+446,141,Supplement Store,Nutrition Maxing,11,80000,1992,Berlin,HH,Hamburg,DE,Germany,8,Germany,Europe
+412,232,Supplement Store,Nutrition Armor,10,80000,1974,Birmingham,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+430,233,Supplement Store,Nutritonus,19,80000,2004,Bracknell,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+464,174,Supplement Store,Nutrition Boulder,17,80000,1991,Saarbrücken,SL,Saarland,DE,Germany,8,Germany,Europe
+176,170,Supplement Store,Supplements Physical,4,30000,1980,Münster,SL,Saarland,DE,Germany,8,Germany,Europe
+409,181,Supplement Store,Monster Nourish,8,30000,1979,Aujan Mournede,32,Gers,FR,France,7,France,Europe
+391,194,Supplement Store,Monster Essence,5,30000,1988,Paris,75,Seine (Paris),FR,France,7,France,Europe
+52,239,Supplement Store,Nutrition Better,9,30000,1994,Gloucestershire,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+67,213,Supplement Store,Supplements Physique,4,30000,1980,Verrieres Le Buisson,91,Essonne,FR,France,7,France,Europe
+70,244,Supplement Store,Nutrition Life,3,30000,1985,London,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+394,278,Supplement Store,Monster Balance,4,30000,1980,York,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+615,158,Supplement Store,Supplements Iron,3,30000,1985,Leipzig,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+658,1,Supplement Store,Nutrition Athletic,5,30000,1980,Canoas,RS,Rio Grande do Sul,BR,Brazil,9,Brazil,South America
+14,167,Gym,Temple Builders Fitness,22,100000,2000,Frankfurt am Main,SL,Saarland,DE,Germany,8,Germany,Europe
+104,130,Gym,The Sanctuary Gym,28,100000,1975,Duesseldorf,HE,Hessen,DE,Germany,8,Germany,Europe
+123,11,Gym,"Just Fit Gym, LC",22,100000,2000,Salvador,BA,Bahia,BR,Brazil,9,Brazil,South America
+213,38,Gym,Primal Fitness,28,100000,1975,Santos,SP,São Paulo,BR,Brazil,9,Brazil,South America
+232,228,Gym,Aesthetic Den,22,100000,2000,Basingstoke Hants,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+319,220,Gym,Body Builders,29,100000,2005,Bobigny,93,Seine Saint Denis,FR,France,7,France,Europe
+322,259,Gym,Body Tone Fitness,28,100000,1975,Milton Keynes,ENG,England,GB,United Kingdom,10,United Kingdom,Europe
+427,199,Supplement Store,Nutrition Progress,20,100000,2004,Paris,75,Seine (Paris),FR,France,7,France,Europe
+428,157,Gym,Feel the Burn,29,100000,2005,Hannover,NW,Nordrhein-Westfalen,DE,Germany,8,Germany,Europe
+536,165,Supplement Store,Monster Clinic,20,100000,2004,Berlin,SL,Saarland,DE,Germany,8,Germany,Europe
+537,14,Gym,Titan Gym,29,100000,2005,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,9,Brazil,South America

@@ -1,0 +1,11 @@
+AccountHeaderKey,AccountHeader,Detail
+1,Gross Sales,TRUE
+2,Discounts,TRUE
+3,Net Sales,FALSE
+4,Cost of Sales,TRUE
+5,Gross Margin,FALSE
+6,Operating Expenses,TRUE
+7,Operating Profit,FALSE
+8,Other Income and Expense,TRUE
+9,Taxes,TRUE
+10,Net Income,FALSE
